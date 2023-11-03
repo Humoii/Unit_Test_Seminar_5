@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/unit-tests-5 (Код семинара)/libs/selenium-java-4.11.0/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/unit-tests-5 (Код семинара)/libs/selenium-java-4.11.0/lib" recursive="false" />
+  </library>
+</component>
